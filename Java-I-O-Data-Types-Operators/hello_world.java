@@ -11,7 +11,7 @@ Hello World !
 Note - You don't have to print "" in the output
 */
 
-class HelloWorld{
+class HelloWorldQ1 {
     public static void main(String[] args) {
         System.out.println("Hello World");
     }
