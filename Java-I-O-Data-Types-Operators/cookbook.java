@@ -44,7 +44,13 @@ class Cookbook2 {
 
 
 /*
-
+Problem Description
+You wrote some code to help you cook a gorgeous lasagna from your favorite
+cookbook. Now, you want to find the total number of minutes you've been cooking
+for the sum of your preparation time and the time the lasagna has already spent baking
+in the oven. The preparation time of one layer is 2 minutes. Given the number of layers
+added to the lasagna and the number of minutes the lasagna has been baking in the oven,
+find the total elapsed cooking time (prep + bake) in minutes.
  */
 
 class Cookbook3 {
