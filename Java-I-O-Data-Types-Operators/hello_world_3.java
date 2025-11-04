@@ -20,5 +20,8 @@ class HelloWorldQ3 {
         System.out.println("Hello");
         System.out.println();
         System.out.println("World");
+
+        System.out.print("Hello");
+        System.out.print("World");
     }
 }
